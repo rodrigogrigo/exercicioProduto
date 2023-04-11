@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication2</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication2.Controllers.ProdutoController.ObterTodosProdutos">
+            <summary>
+            Este método retorna todos os produtos.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication2.Controllers.ProdutoController.ObterProdutoById(System.Int32)">
+            <summary>
+            Este método busca 1 produto de acordo com o ID pessado por parâmetro
+            </summary>
+            <param name="idProduto"></param>
+            <returns>Este método retorna um objeto produto</returns>
+        </member>
+    </members>
+</doc>
